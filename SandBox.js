@@ -1,0 +1,3 @@
+function Setup() {}
+
+function Draw() {}
